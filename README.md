@@ -2,7 +2,7 @@
 
 Site institucional de exemplo do Ponto Escolar , em Candeias (BA). Modelo do docente para o Projeto Integrador de Projeto de Front-End (SENAI). O negócio e os dados de contato são fictícios.
 
-Site publicado: https://github.com/matheusriso/ponto-escolar.git
+Site publicado: https://matheusriso.github.io/ponto-escolar/
 
 ## Funcionalidades
 - Matérias com filtro por categoria
@@ -22,4 +22,4 @@ HTML5, CSS3, JavaScript, Git, GitHub Pages
  - Scrum Master : Laysla
  - Apresentador : Miguel Santos 
  - Product Owner : Aissa 
- - Documentador : Larissa 
+ - Documentador : Larissa
