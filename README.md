@@ -1,6 +1,6 @@
 # Ponto Escolar 
 
-Site institucional de exemplo do Ponto Escolar , em Candeias (BA). Tudo para escola,perto de você de Projeto de Front-End (SENAI). O negócio e os dados de contato são fictícios.
+Site institucional de exemplo do Ponto Escolar , em Candeias (BA). Modelo do docente para o Projeto Integrador de Projeto de Front-End (SENAI). O negócio e os dados de contato são fictícios.
 
 Site publicado: https://matheusriso.github.io/ponto-escolar/
 
